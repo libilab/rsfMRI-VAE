@@ -3,7 +3,7 @@ This repository is the official Pytorch implementation of '[Representation Learn
 
 ## Environments
 
-This code is developed and tested witn 
+This code is developed and tested with 
 
 ```
 Python 2.7.17
