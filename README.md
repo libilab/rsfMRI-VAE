@@ -48,3 +48,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Reference
 
 Kim, Jung-Hoon, et al. "Representation Learning of Resting State fMRI with Variational Autoencoder." NeuroImage (2021).
+https://doi.org/10.1016/j.neuroimage.2021.118423
