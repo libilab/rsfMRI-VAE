@@ -1,5 +1,5 @@
 # rsfMRI-VAE
-This repository is the official Pytorch implementation of '[Representation Learning of Resting State fMRI with Variational Autoencoder](https://www.biorxiv.org/content/10.1101/2020.06.16.155937v2)'
+This repository is the official Pytorch implementation of '[Representation Learning of Resting State fMRI with Variational Autoencoder](https://doi.org/10.1016/j.neuroimage.2021.118423)'
 
 ## Environments
 
@@ -47,4 +47,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Reference
 
-Kim, Jung-Hoon, et al. "Representation Learning of Resting State fMRI with Variational Autoencoder." bioRxiv (2020).
+Kim, Jung-Hoon, et al. "Representation Learning of Resting State fMRI with Variational Autoencoder." NeuroImage (2021).
