@@ -37,7 +37,7 @@ python Example_Decoder.py
 Directory `demo` includes a whole pipeline from processing fMRI data to getting latent variables from VAE. A brief illustration of the pipeline is shown in the figure below. 
 
 <p align="center">
-    <img src="results/gray_input.png" width= "300">
+    <img src="demo/figure/VAE_data_preparation_demo_diagram.PNG" width= "1000">
 </p>
 <p align=center>
 Illustration of the whole pipeline of demo. 
