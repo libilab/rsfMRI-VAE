@@ -3,7 +3,7 @@
 Directory `demo` includes a whole pipeline from processing fMRI data to getting latent variables from VAE. A brief illustration of the pipeline is shown in the figure below. 
 
 <p align="center">
-    <img src="demo/figure/VAE_data_preparation_demo_diagram.PNG" width= "1000">
+    <img src="figure/VAE_data_preparation_demo_diagram.PNG" width= "1000">
 </p>
 <p align=center>
 Illustration of the whole pipeline of demo. 
